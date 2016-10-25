@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/searchFriends.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/db/MySQLDAO.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/deleteFriend.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/requestNewPassword.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/MyUtils.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/Classes/EmailConfirmation.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/inc/passwordResetMessage.html</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/confirmEmailAddress.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/temp.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/Classes/PasswordReset.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/apns/classses/class_DbConnect.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/userSignIn.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/db/dbaccess.ini</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/index.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/apns/classses/class_APNS.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/inc/emailMessage.html</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/imageUpload.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/apns/apns.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/newPasswordPage.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/apns/samples.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/passwordSuccussfullyReset.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/test.php</file>
+            <file>file:/Applications/XAMPP/htdocs/fridgapp/scripts/registerUser.php</file>
+        </group>
+    </open-files>
+</project-private>

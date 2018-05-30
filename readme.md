@@ -21,11 +21,11 @@ Due to this time scarcity issue that afflicts us, we often opt for the most conv
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/signin.PNG"><br>
-  <img src="screenshots/signup.PNG"><br>
-  <img src="screenshots/filter.PNG"><br>
-  <img src="screenshots/recipes.PNG"><br>
-  <img src="screenshots/recipe.PNG"><br>
+  <img src="https://github.com/dennisngordon/fridg_v3/raw/master/screenshots/signin.PNG"><br>
+  <img src="https://github.com/dennisngordon/fridg_v3/raw/master/screenshots/signup.PNG"><br>
+  <img src="https://github.com/dennisngordon/fridg_v3/raw/master/screenshots/filter.PNG"><br>
+  <img src="https://github.com/dennisngordon/fridg_v3/raw/master/screenshots/recipes.PNG"><br>
+  <img src="https://github.com/dennisngordon/fridg_v3/raw/master/screenshots/recipe.PNG"><br>
 </p>
 
 ## Project members & responsibilities
